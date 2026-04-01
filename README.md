@@ -1,3 +1,9 @@
+Steps:
+1. Download the file with the attributed Operating System.
+2. Extract the zip.
+3. Open the folder and run the installer.
+4. Then use use the 'Run Desktop Calendar' file.
+
 ## Notes
 
 - Click a day on the month grid to load its items.
